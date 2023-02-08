@@ -1,5 +1,4 @@
 const sumAll = function(value1, value2) {
-	debugger
 	
 	// const initialValue = 0;
 	// const newSum = sum.reduce((accumulator, currentValue) => accumulator + currentValue,
